@@ -1,0 +1,25 @@
+{"pregunta": "¿Cuántos días hábiles tiene un servicio público para responder una solicitud de acceso a la información?", "esperado": ["20.285 14"]}
+{"pregunta": "¿Qué datos debe incluir una solicitud de acceso a la información pública?", "esperado": ["20.285 12"]}
+{"pregunta": "¿Qué hace un órgano si recibe una solicitud de información que no es de su competencia?", "esperado": ["20.285 13"]}
+{"pregunta": "¿Cuándo se puede cobrar por entregar información pública?", "esperado": ["20.285 18"]}
+{"pregunta": "¿Cuáles son las causales de secreto o reserva para negar información?", "esperado": ["20.285 21"]}
+{"pregunta": "¿Qué puedo hacer si me niegan la información que pedí a un servicio público?", "esperado": ["20.285 24"]}
+{"pregunta": "¿Cuántos consejeros tiene el Consejo Directivo del Consejo para la Transparencia?", "esperado": ["20.285 36"]}
+{"pregunta": "¿Qué plazo tiene un tercero para oponerse a que se entregue información que lo afecta?", "esperado": ["20.285 20"]}
+{"pregunta": "¿Qué información debe mantener publicada cada organismo en su sitio web?", "esperado": ["20.285 7"]}
+{"pregunta": "¿Cuál es el plazo máximo de duración de un procedimiento administrativo?", "esperado": ["19.880 27"]}
+{"pregunta": "¿Los plazos de días en un procedimiento administrativo incluyen los sábados?", "esperado": ["19.880 25"]}
+{"pregunta": "¿En cuántos días se puede presentar un recurso de reposición contra un acto administrativo?", "esperado": ["19.880 59"]}
+{"pregunta": "¿Qué puedo hacer si la Administración no responde mi solicitud dentro del plazo legal y la ley dice que se entiende aceptada?", "esperado": ["19.880 64"]}
+{"pregunta": "¿Cuándo se entiende rechazada una solicitud que la Administración no resolvió a tiempo?", "esperado": ["19.880 65"]}
+{"pregunta": "¿Cómo se notifican los actos administrativos a los interesados?", "esperado": ["19.880 45", "19.880 46"]}
+{"pregunta": "¿Qué debe contener la solicitud con la que una persona inicia un procedimiento administrativo?", "esperado": ["19.880 30"]}
+{"pregunta": "¿Cuándo se puede hacer una licitación privada en vez de una pública?", "esperado": ["19.886 8"]}
+{"pregunta": "¿Qué requisitos debe cumplir una empresa para contratar con los organismos del Estado?", "esperado": ["19.886 4"]}
+{"pregunta": "¿De qué asuntos conoce el Tribunal de Contratación Pública?", "esperado": ["19.886 24"]}
+{"pregunta": "¿Cómo se adjudica un contrato en una licitación pública?", "esperado": ["19.886 10"]}
+{"pregunta": "¿Cuántos días de vacaciones tiene un funcionario público?", "esperado": []}
+{"pregunta": "¿Cuál es el sueldo mínimo vigente en Chile?", "esperado": []}
+{"pregunta": "¿Qué pena tiene el delito de cohecho a un funcionario público?", "esperado": []}
+{"pregunta": "¿Cómo se postula a un subsidio habitacional?", "esperado": []}
+{"pregunta": "¿Cuál es el plazo para declarar el impuesto a la renta?", "esperado": []}
