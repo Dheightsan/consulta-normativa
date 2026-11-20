@@ -23,7 +23,7 @@ STOPWORDS = {
 RRF_K = 60
 MIN_BM25 = 5.0
 MIN_COSINE = 0.70
-VECTOR_WEIGHT = 1.0
+VECTOR_WEIGHT = 2.0
 LAW_MENTION = re.compile(r"ley\s*(?:n[°º.]*\s*)?(\d{2}\.?\d{3})", re.IGNORECASE)
 ARTICLE_MENTION = re.compile(
     r"art(?:[ií]culo|\.)?s?\s*(\d+)\s*[°º]?\s*(bis|ter|qu[aá]ter|quinquies|sexies)?",
@@ -115,6 +115,10 @@ class HybridSearch:
         self.min_bm25 = min_bm25
         self.min_cosine = min_cosine
         self.vectors_used = False
+
+    def has_vectors(self) -> bool:
+        model = getattr(self.store, "model", None)
+        return bool(self.embedder and model and model())
 
     def get(self, ley: str, numero: str) -> Chunk | None:
         ley = ley if "." in ley else f"{ley[:-3]}.{ley[-3:]}"

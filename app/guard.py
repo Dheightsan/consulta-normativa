@@ -65,12 +65,12 @@ def check(answer: str, chunks: list[Chunk]) -> GuardResult:
     if not cited:
         return GuardResult(False, [])
 
+    known = known_numbers(chunks)
     for num, suffix in BARE_ARTICLE.findall(answer):
-        if normalize_numero(f"{num} {suffix}".strip()) not in numeros:
+        if normalize_numero(f"{num} {suffix}".strip()) not in numeros and num not in known:
             return GuardResult(False, [])
 
     stripped = BARE_ARTICLE.sub(" ", LAW_MENTION.sub(" ", answer))
-    known = known_numbers(chunks)
     if any(_digits(n) not in known for n in NUMBER.findall(stripped)):
         return GuardResult(False, [])
     return GuardResult(True, list(dict.fromkeys(cited)))

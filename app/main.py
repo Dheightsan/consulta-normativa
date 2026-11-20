@@ -41,7 +41,7 @@ def health(search: HybridSearch = Depends(get_search)) -> dict:
     return {
         "status": "ok",
         "articulos": len(search.chunks),
-        "busqueda": "hibrida" if search.embedder and search.store else "bm25",
+        "busqueda": "hibrida" if search.has_vectors() else "bm25",
         "generacion": "modelo" if ChatClient.from_env() else "extractiva",
     }
 
