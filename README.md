@@ -122,7 +122,7 @@ No hay nada desplegado.
 
 ## Cómo lo hice
 
-Lo hice en una tarde con Claude Code. Lo que más revisé fue que cada respuesta cite el artículo de donde sale y que no invente nada cuando la ley no lo dice. Por eso en la evaluación también están las preguntas que falla.
+Lo hice con Claude Code. Lo que más revisé fue que cada respuesta cite el artículo de donde sale y que no invente nada cuando la ley no lo dice. Por eso la evaluación mide también las preguntas que no tienen respuesta en las leyes.
 
 ## Licencia
 
