@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8"?><Norma xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.leychile.cl/esquemas" xsi:schemaLocation="http://www.leychile.cl/esquemas http://www.leychile.cl/esquemas/EsquemaIntercambioNorma-v1-0.xsd" normaId="210676" esTratado="no tratado" fechaVersion="2026-10-17" SchemaVersion="1.0" derogado="no derogado">
+  <Identificador fechaPromulgacion="2003-05-22" fechaPublicacion="2003-05-29">
+    <TiposNumeros>
+      <TipoNumero>
+        <Tipo>Ley</Tipo>
+        <Numero>19880</Numero>
+      </TipoNumero>
+    </TiposNumeros>
+    <Organismos>
+      <Organismo>MINISTERIO SECRETAR&#205;A GENERAL DE LA PRESIDENCIA</Organismo>
+    </Organismos>
+  </Identificador>
+  <Metadatos>
+    <TituloNorma>ESTABLECE BASES DE LOS PROCEDIMIENTOS ADMINISTRATIVOS QUE RIGEN LOS ACTOS DE LOS ORGANOS DE LA ADMINISTRACION DEL ESTADO.</TituloNorma>
+    <Materias>
+      <Materia>PROCEDIMIENTO ADMINISTRATIVO / CHILE</Materia>
+      <Materia>ADMINISTRACION PUBLICA</Materia>
+      <Materia>ACTOS ADMINISTRATIVOS</Materia>
+    </Materias>
+    
+    
+    <IdentificacionFuente>Diario Oficial</IdentificacionFuente>
+    <NumeroFuente>37570</NumeroFuente>
+  </Metadatos>
+  <Encabezado fechaVersion="2003-05-29" derogado="no derogado">
+    <Texto>ESTABLECE BASES DE LOS PROCEDIMIENTOS ADMINISTRATIVOS QUE
+RIGEN LOS ACTOS DE LOS ORGANOS DE LA ADMINISTRACION DEL
+ESTADO
+
+     Teniendo presente que el H. Congreso Nacional ha dado
+su aprobaci&#243;n al siguiente
+
+     Proyecto de ley:
+
+
+
+</Texto>
+  </Encabezado>
+  <EstructurasFuncionales>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Cap&#237;tulo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512581">
+      <Texto>     "CAPITULO I
+
+     Disposiciones Generales</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">CAPITULO I Disposiciones Generales</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2025-09-29" derogado="no derogado" idParte="8512580">
+          <Texto>     Art&#237;culo 1&#186;. Procedimiento Administrativo. La
+presente ley establece y regula las bases del procedimiento
+administrativo de los actos de la Administraci&#243;n del
+Estado. 
+     Todo procedimiento administrativo deber&#225; expresarse a
+trav&#233;s de los medios electr&#243;nicos establecidos por ley,
+salvo las excepciones legales.
+     En caso de que la ley establezca procedimientos
+administrativos especiales, la presente ley se aplicar&#225; con
+car&#225;cter supletorio. Trat&#225;ndose de los procedimientos
+seguidos para el otorgamiento de una autorizaci&#243;n
+sectorial, iniciados a solicitud de parte, se estar&#225; a lo
+dispuesto en la Ley Marco de Autorizaciones Sectoriales. En
+lo no dispuesto en dicha ley, se aplicar&#225; la presente ley
+con car&#225;cter supletorio.
+     La toma de raz&#243;n de los actos de la Administraci&#243;n
+del Estado se regir&#225;n por lo dispuesto en la Constituci&#243;n
+y en la Ley Org&#225;nica Constitucional de la Contralor&#237;a
+General de la Rep&#250;blica.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">1 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512582">
+          <Texto>     Art&#237;culo 2&#186;. Ambito de aplicaci&#243;n. Las disposiciones
+de la presente ley ser&#225;n aplicables a los ministerios, las
+intendencias, las gobernaciones y los servicios p&#250;blicos
+creados para el cumplimiento de la funci&#243;n administrativa.
+Tambi&#233;n se aplicar&#225;n a la Contralor&#237;a General de la
+Rep&#250;blica, a las Fuerzas Armadas y a las Fuerzas de Orden y
+Seguridad P&#250;blica, a los gobiernos regionales y a las
+municipalidades.
+     Las referencias que esta ley haga a la Administraci&#243;n
+o a la Administraci&#243;n del Estado, se entender&#225;n efectuadas
+a los &#243;rganos y organismos se&#241;alados en el inciso
+precedente.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">2 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512583">
+          <Texto>     Art&#237;culo 3&#186;. Concepto de Acto administrativo. Las
+decisiones escritas que adopte la Administraci&#243;n se
+expresar&#225;n por medio de actos administrativos.
+     Para efectos de esta ley se entender&#225; por acto
+administrativo las decisiones formales que emitan los
+&#243;rganos de la Administraci&#243;n del Estado en las cuales se
+contienen declaraciones de voluntad, realizadas en el
+ejercicio de una potestad p&#250;blica.
+     Los actos administrativos tomar&#225;n la forma de decretos
+supremos y resoluciones.
+     El decreto supremo es la orden escrita que dicta el
+Presidente de la Rep&#250;blica o un Ministro "Por orden del
+Presidente de la Rep&#250;blica", sobre asuntos propios de su
+competencia.
+     Las resoluciones son los actos de an&#225;loga naturaleza
+que dictan las autoridades administrativas dotadas de poder
+de decisi&#243;n.
+     Constituyen, tambi&#233;n, actos administrativos los
+dict&#225;menes o declaraciones de juicio, constancia o
+conocimiento que realicen los &#243;rganos de la Administraci&#243;n
+en el ejercicio de sus competencias.
+     Las decisiones de los &#243;rganos administrativos
+pluripersonales se denominan acuerdos y se llevan a efecto
+por medio de resoluciones de la autoridad ejecutiva de la
+entidad correspondiente.
+     Los actos administrativos gozan de una presunci&#243;n de
+legalidad, de imperio y exigibilidad frente a sus
+destinatarios, desde su entrada en vigencia, autorizando su
+ejecuci&#243;n de oficio por la autoridad administrativa, salvo
+que mediare una orden de suspensi&#243;n dispuesta por la
+autoridad administrativa dentro del procedimiento
+impugnatorio o por el juez, conociendo por la v&#237;a
+jurisdiccional.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">3 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512584">
+          <Texto>     Art&#237;culo 4&#186;. Principios del procedimiento. El
+procedimiento administrativo estar&#225; sometido a los
+principios de escrituraci&#243;n, gratuidad, celeridad,
+conclusivo, econom&#237;a procedimental, contradictoriedad,
+imparcialidad, abstenci&#243;n, no formalizaci&#243;n,
+inexcusabilidad, impugnabilidad, transparencia, publicidad y
+aquellos relativos a los medios electr&#243;nicos.
+
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">4 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512585">
+          <Texto>     Art&#237;culo 5&#186;. Principio de escrituraci&#243;n. El
+procedimiento administrativo y los actos administrativos a
+los cuales da origen se expresar&#225;n por escrito a trav&#233;s de
+medios electr&#243;nicos, a menos que se configure alguna
+excepci&#243;n establecida en la ley.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">5 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512586">
+          <Texto>     Art&#237;culo 6&#186;. Principio de gratuidad. En el
+procedimiento administrativo, las actuaciones que deban
+practicar los &#243;rganos de la Administraci&#243;n del Estado y la
+obtenci&#243;n de documentos e informaci&#243;n necesaria para su
+conclusi&#243;n ser&#225;n gratuitas para los interesados, salvo
+disposici&#243;n legal en contrario. No proceder&#225;n cobros entre
+los &#243;rganos de la Administraci&#243;n del Estado que deban
+participar en su desarrollo e intercambio, salvo
+disposici&#243;n legal en contrario.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">6 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512587">
+          <Texto>     Art&#237;culo 7&#186;. Principio de celeridad. El
+procedimiento, sometido al criterio de celeridad, se
+impulsar&#225; de oficio en todos sus tr&#225;mites.
+     Las autoridades y funcionarios de los &#243;rganos de la
+Administraci&#243;n del Estado deber&#225;n actuar por propia
+iniciativa en la iniciaci&#243;n del procedimiento de que se
+trate y en su prosecuci&#243;n, haciendo expeditos los tr&#225;mites
+que debe cumplir el expediente y removiendo todo obst&#225;culo
+que pudiere afectar a su pronta y debida decisi&#243;n.
+     En el despacho de los expedientes originados en una
+solicitud o en el ejercicio de un derecho se guardar&#225; el
+orden riguroso de ingreso en asuntos de similar naturaleza,
+salvo que por el titular de la unidad administrativa se d&#233;
+orden motivada en contrario, de la que quede constancia.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">7 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512588">
+          <Texto>     Art&#237;culo 8&#186;. Principio conclusivo. Todo el
+procedimiento administrativo est&#225; destinado a que la
+Administraci&#243;n dicte un acto decisorio que se pronuncie
+sobre la cuesti&#243;n de fondo y en el cual exprese su
+voluntad.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">8 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512589">
+          <Texto>     Art&#237;culo 9&#186;. Principio de econom&#237;a procedimental. La
+Administraci&#243;n debe responder a la m&#225;xima econom&#237;a de
+medios con eficacia, evitando tr&#225;mites dilatorios.
+     Se decidir&#225;n en un solo acto todos los tr&#225;mites que,
+por su naturaleza, admitan un impulso simult&#225;neo, siempre
+que no sea obligatorio su cumplimiento sucesivo.
+     Toda comunicaci&#243;n entre &#243;rganos de la Administraci&#243;n
+que se practique en el marco del procedimiento se realizar&#225;
+por medios electr&#243;nicos, dej&#225;ndose constancia del &#243;rgano
+requirente, el funcionario responsable que practica el
+requerimiento, destinatario, procedimiento a que
+corresponde, gesti&#243;n que se encarga y el plazo establecido
+para su realizaci&#243;n. Asimismo, deber&#225; remitirse una copia
+electr&#243;nica de tal comunicaci&#243;n a todos quienes figuren
+como interesados en el procedimiento administrativo de que
+se trate.
+     Las cuestiones incidentales que se susciten en el
+procedimiento, incluso las que se refieran a la nulidad de
+actuaciones, no suspender&#225;n la tramitaci&#243;n del mismo, a
+menos que la Administraci&#243;n, por resoluci&#243;n fundada,
+determine lo contrario.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">9 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512590">
+          <Texto>     Art&#237;culo 10. Principio de contradictoriedad. Los
+interesados podr&#225;n, en cualquier momento del procedimiento,
+aducir alegaciones y aportar documentos u otros elementos de
+juicio.
+     Los interesados podr&#225;n, en todo momento, alegar
+defectos de tramitaci&#243;n, especialmente los que supongan
+paralizaci&#243;n, infracci&#243;n de los plazos se&#241;alados o la
+omisi&#243;n de tr&#225;mites que pueden ser subsanados antes de la
+resoluci&#243;n definitiva del asunto. Dichas alegaciones
+podr&#225;n dar lugar, si hubiere razones para ello, a la
+exigencia de la correspondiente responsabilidad
+disciplinaria.
+     Los interesados podr&#225;n, en todo caso, actuar asistidos
+de asesor cuando lo consideren conveniente en defensa de sus
+intereses.
+     En cualquier caso, el &#243;rgano instructor adoptar&#225; las
+medidas necesarias para lograr el pleno respeto a los
+principios de contradicci&#243;n y de igualdad de los
+interesados en el procedimiento.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">10 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512591">
+          <Texto>     Art&#237;culo 11. Principio de imparcialidad. La
+Administraci&#243;n debe actuar con objetividad y respetar el
+principio de probidad consagrado en la legislaci&#243;n, tanto
+en la substanciaci&#243;n del procedimiento como en las
+decisiones que adopte.
+     Los hechos y fundamentos de derecho deber&#225;n siempre
+expresarse en aquellos actos que afectaren los derechos de
+los particulares, sea que los limiten, restrinjan, priven de
+ellos, perturben o amenacen su leg&#237;timo ejercicio, as&#237;
+como aquellos que resuelvan recursos administrativos.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">11 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512592">
+          <Texto>     Art&#237;culo 12. Principio de abstenci&#243;n. Las autoridades
+y los funcionarios de la Administraci&#243;n en quienes se den
+algunas de las circunstancias se&#241;aladas a continuaci&#243;n, se
+abstendr&#225;n de intervenir en el procedimiento y lo
+comunicar&#225;n a su superior inmediato, quien resolver&#225; lo
+procedente.
+
+     Son motivos de abstenci&#243;n los siguientes:
+
+     1. Tener inter&#233;s personal en el asunto de que se trate
+o en otro en cuya resoluci&#243;n pudiera influir la de aqu&#233;l;
+ser administrador de sociedad o entidad interesada, o tener
+cuesti&#243;n litigiosa pendiente con alg&#250;n interesado.
+     2. Tener parentesco de consanguinidad dentro del cuarto
+grado o de afinidad dentro del segundo, con cualquiera de
+los interesados, con los administradores de entidades o
+sociedades interesadas y tambi&#233;n con los asesores,
+representantes legales o mandatarios que intervengan en el
+procedimiento, as&#237; como compartir despacho profesional o
+estar asociado con &#233;stos para el asesoramiento, la
+representaci&#243;n o el mandato.
+     3. Tener amistad &#237;ntima o enemistad manifiesta con
+alguna de las personas mencionadas anteriormente.
+     4. Haber tenido intervenci&#243;n como perito o como
+testigo en el procedimiento de que se trate.
+     5. Tener relaci&#243;n de servicio con persona natural o
+jur&#237;dica interesada directamente en el asunto, o haberle
+prestado en los dos &#250;ltimos a&#241;os servicios profesionales
+de cualquier tipo y en cualquier circunstancia o lugar.
+
+     La actuaci&#243;n de autoridades y los funcionarios de la
+Administraci&#243;n en los que concurran motivos de abstenci&#243;n
+no implicar&#225;, necesariamente, la invalidez de los actos en
+que hayan intervenido.
+     La no abstenci&#243;n en los casos en que proceda dar&#225;
+lugar a responsabilidad.
+     En los casos previstos en los incisos precedentes
+podr&#225; promoverse inhabilitaci&#243;n por los interesados en
+cualquier momento de la tramitaci&#243;n del procedimiento.
+     La inhabilitaci&#243;n se plantear&#225; ante la misma
+autoridad o funcionario afectado, por escrito, en el que se
+expresar&#225; la causa o causas en que se funda. </Texto>
+          <Metadatos>
+            <NombreParte presente="si">12 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2023-07-07" derogado="no derogado" idParte="8512593">
+          <Texto>     Art&#237;culo 13. Principio de la no formalizaci&#243;n. El
+procedimiento debe desarrollarse con sencillez y eficacia,
+de modo que las formalidades que se exijan sean aqu&#233;llas
+indispensables para dejar constancia indubitada de lo
+actuado y evitar perjuicios a los particulares.
+     Quienes desempe&#241;en cargos en la Administraci&#243;n no
+podr&#225;n exigir la presentaci&#243;n de autorizaciones notariales
+de firmas en documentos otorgados en soporte de papel o
+electr&#243;nico, salvo que dicha autorizaci&#243;n sea expresamente
+requerida por mandato legal o reglamentario.
+     El vicio de procedimiento o de forma s&#243;lo afecta la
+validez del acto administrativo cuando recae en alg&#250;n
+requisito esencial del mismo, sea por su naturaleza o por
+mandato del ordenamiento jur&#237;dico y genera perjuicio al
+interesado.
+     La Administraci&#243;n podr&#225; subsanar los vicios de que
+adolezcan los actos que emita, siempre que con ello no se
+afectaren intereses de terceros.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">13 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512594">
+          <Texto>     Art&#237;culo 14. Principio de inexcusabilidad. La
+Administraci&#243;n estar&#225; obligada a dictar resoluci&#243;n
+expresa en todos los procedimientos y a notificarla,
+cualquiera que sea su forma de iniciaci&#243;n.
+     Requerido un &#243;rgano de la Administraci&#243;n para
+intervenir en un asunto que no sea de su competencia,
+enviar&#225; de inmediato los antecedentes a la autoridad que
+deba conocer seg&#250;n el ordenamiento jur&#237;dico, informando de
+ello al interesado.
+     En los casos de prescripci&#243;n, renuncia del derecho,
+abandono del procedimiento o desistimiento de la solicitud,
+as&#237; como la desaparici&#243;n sobreviniente del objeto del
+procedimiento, la resoluci&#243;n consistir&#225; en la declaraci&#243;n
+de la circunstancia que concurra en cada caso, con
+indicaci&#243;n de los hechos producidos y las normas
+aplicables.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">14 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512595">
+          <Texto>     Art&#237;culo 15. Principio de impugnabilidad. Todo acto
+administrativo es impugnable por el interesado mediante los
+recursos administrativos de reposici&#243;n y jer&#225;rquico,
+regulados en esta ley, sin perjuicio del recurso
+extraordinario de revisi&#243;n y de los dem&#225;s recursos que
+establezcan las leyes especiales.
+     Sin embargo, los actos de mero tr&#225;mite son impugnables
+s&#243;lo cuando determinen la imposibilidad de continuar un
+procedimiento o produzcan indefensi&#243;n.
+     La autoridad que acogiere un recurso interpuesto en
+contra de un acto administrativo, podr&#225; dictar por s&#237;
+misma el acto de reemplazo.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">15 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2008-08-20" derogado="no derogado" idParte="8512596">
+          <Texto>     Art&#237;culo 16. Principio de Transparencia y de
+Publicidad. El procedimiento administrativo se realizar&#225;
+con transparencia, de manera que permita y promueva el
+conocimiento, contenidos y fundamentos de las decisiones que
+se adopten en &#233;l.
+     En consecuencia, salvo las excepciones establecidas en
+la Ley de Transparencia de la Funci&#243;n P&#250;blica y de Acceso
+a la Informaci&#243;n de la Administraci&#243;n del Estado y en
+otras disposiciones legales aprobadas con qu&#243;rum
+calificado, son p&#250;blicos los actos y resoluciones de los
+&#243;rganos de la Administraci&#243;n del Estado, as&#237; como sus
+fundamentos y documentos en que &#233;stos se contengan, y los
+procedimientos que utilicen en su elaboraci&#243;n o dictaci&#243;n.
+</Texto>
+          <Metadatos>
+            <NombreParte presente="si">16 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="10067460">
+          <Texto>
+     Art&#237;culo 16 bis. Principios generales relativos a los
+medios electr&#243;nicos. En la tramitaci&#243;n de los
+procedimientos administrativos por medios electr&#243;nicos se
+deber&#225; cumplir con los principios de neutralidad
+tecnol&#243;gica, de actualizaci&#243;n, de equivalencia funcional,
+de fidelidad, de interoperabilidad y de cooperaci&#243;n.
+     En virtud del principio de actualizaci&#243;n, los &#243;rganos
+de la Administraci&#243;n del Estado deber&#225;n actualizar sus
+plataformas a tecnolog&#237;as no obsoletas o carentes de
+soporte, as&#237; como generar medidas que permitan el rescate
+de los contenidos de formatos de archivo electr&#243;nicos que
+caigan en desuso.
+     El principio de equivalencia funcional consiste en que
+los actos administrativos suscritos por medio de firma
+electr&#243;nica ser&#225;n v&#225;lidos y producir&#225;n los mismos
+efectos que si se hubieren llevado a cabo en soporte de
+papel.
+     El principio de fidelidad consiste en que todas las
+actuaciones del procedimiento se registrar&#225;n y conservar&#225;n
+&#237;ntegramente y en orden sucesivo en el expediente
+electr&#243;nico, el que garantizar&#225; su fidelidad,
+preservaci&#243;n y la reproducci&#243;n de su contenido.
+     El principio de interoperabilidad consiste en que los
+medios electr&#243;nicos deben ser capaces de interactuar y
+operar entre s&#237; al interior de la Administraci&#243;n del
+Estado, a trav&#233;s de est&#225;ndares abiertos que permitan una
+segura y expedita interconexi&#243;n entre ellos.
+     El principio de cooperaci&#243;n consiste en que los
+distintos &#243;rganos de la Administraci&#243;n del Estado deben
+cooperar efectivamente entre s&#237; en la utilizaci&#243;n de
+medios electr&#243;nicos.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">16 BIS</NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512597">
+          <Texto>     Art&#237;culo 17. Derechos de las personas. Las personas,
+en sus relaciones con la Administraci&#243;n, tienen derecho a:
+
+     a) Conocer, en cualquier momento, el estado de la
+tramitaci&#243;n de los procedimientos en los que tengan la
+condici&#243;n de interesados, y obtener copia autorizada de los
+documentos que rolan en el expediente y la devoluci&#243;n de
+los originales, salvo que por mandato legal o reglamentario
+&#233;stos deban ser acompa&#241;ados a los autos, a su costa.
+Constituye copia autorizada aquella generada por la
+plataforma electr&#243;nica donde se acceda al expediente
+electr&#243;nico, que cuente con un medio de verificaci&#243;n de su
+autenticidad;
+     b) Identificar a las autoridades y al personal al
+servicio de la Administraci&#243;n, bajo cuya responsabilidad se
+tramiten los procedimientos;
+     c) Acompa&#241;ar documentos electr&#243;nicos, tales como
+copias digitalizadas de documentos en soporte de papel o
+documentos electr&#243;nicos en su origen, que no sean emitidos
+por los &#243;rganos de la Administraci&#243;n del Estado, en la
+medida que conste su autenticidad e integridad, salvo que
+por mandato legal o reglamentario &#233;stos deban ser
+acompa&#241;ados a los autos en soporte de papel, a su costa;
+     d) Eximirse de presentar documentos que no correspondan
+al procedimiento o que emanen y se encuentren en poder de
+cualquier &#243;rgano de la Administraci&#243;n del Estado. En este
+&#250;ltimo caso, dichos documentos deber&#225;n ser remitidos por
+el &#243;rgano que los tuviere en su poder a aquel que estuviere
+tramitando el procedimiento administrativo;
+     e) Acceder a los actos administrativos y sus
+documentos, en los t&#233;rminos previstos en la ley;
+     f) Ser tratados con respeto y deferencia por las
+autoridades y funcionarios, que habr&#225;n de facilitarles el
+ejercicio de sus derechos y el cumplimiento de sus
+obligaciones. Los actos de instrucci&#243;n que requieran la
+intervenci&#243;n de los interesados habr&#225;n de practicarse en
+la forma que resulte m&#225;s c&#243;moda para ellos y sea
+compatible, en la medida de lo posible, con sus obligaciones
+laborales o profesionales;
+     g) Formular alegaciones y aportar documentos en
+cualquier fase del procedimiento anterior al tr&#225;mite de
+audiencia, que deber&#225;n ser tenidos en cuenta por el &#243;rgano
+competente al redactar la propuesta de resoluci&#243;n;
+     h) Exigir las responsabilidades de la Administraci&#243;n
+P&#250;blica y del personal a su servicio, cuando as&#237;
+corresponda legalmente;
+     i) Obtener informaci&#243;n acerca de los requisitos
+jur&#237;dicos o t&#233;cnicos que las disposiciones vigentes
+impongan a los proyectos, actuaciones o solicitudes que se
+propongan realizar, e
+     j) Cualesquiera otros que les reconozcan la
+Constituci&#243;n y las leyes.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">17 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Cap&#237;tulo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512599">
+      <Texto>     CAPITULO II
+
+     El Procedimiento Administrativo</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">CAPITULO II El Procedimiento Administrativo</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512600">
+          <Texto>     P&#225;rrafo 1&#186;
+
+     Normas b&#225;sicas</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#186; Normas B&#225;sicas</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-02-09" derogado="no derogado" idParte="8512598">
+              <Texto>     Art&#237;culo 18. Definici&#243;n. El procedimiento
+administrativo es una sucesi&#243;n de actos tr&#225;mite vinculados
+entre s&#237;, emanados de la Administraci&#243;n y, en su caso, de
+particulares interesados, que tiene por finalidad producir
+un acto administrativo terminal.
+     El procedimiento administrativo consta de las
+siguientes etapas: iniciaci&#243;n, instrucci&#243;n y
+finalizaci&#243;n.
+     Todo el procedimiento administrativo deber&#225; constar en
+un expediente electr&#243;nico, salvo las excepciones
+contempladas en la ley, en el que se asentar&#225;n los
+documentos presentados por los interesados, por terceros y
+por otros &#243;rganos p&#250;blicos, con expresi&#243;n de la fecha y
+hora de su recepci&#243;n, respetando su orden de ingreso.
+Asimismo, se incorporar&#225;n las actuaciones y los documentos
+y resoluciones que el &#243;rgano administrativo remita a los
+interesados, a terceros o a otros &#243;rganos p&#250;blicos y las
+notificaciones y comunicaciones a que &#233;stas den lugar, con
+expresi&#243;n de la fecha y hora de su env&#237;o, en estricto
+orden de ocurrencia o egreso.
+     El ingreso de las solicitudes, formularios o documentos
+se har&#225; mediante documentos electr&#243;nicos o por medio de
+formatos o medios electr&#243;nicos, a trav&#233;s de las
+plataformas de los &#243;rganos de la Administraci&#243;n del
+Estado.
+     Aquella persona que carezca de los medios
+tecnol&#243;gicos, no tenga acceso a medios electr&#243;nicos o
+s&#243;lo actuare excepcionalmente a trav&#233;s de ellos, podr&#225;
+solicitar por medio de un formulario, ante el &#243;rgano
+respectivo, efectuar presentaciones dentro del procedimiento
+administrativo en soporte de papel. El &#243;rgano respectivo
+deber&#225; pronunciarse dentro de tercero d&#237;a, y deber&#225;
+hacerlo de manera fundada en caso de denegar la solicitud.
+Sin perjuicio de lo anterior, la presentaci&#243;n de dicha
+solicitud no suspender&#225; los plazos para los interesados por
+lo que, en todo caso, antes del vencimiento de un plazo y
+mientras no se haya pronunciado la Administraci&#243;n podr&#225;n
+efectuarse las presentaciones en soporte de papel. Las
+solicitudes, formularios o escritos presentados en soporte
+de papel ser&#225;n digitalizados e ingresados al expediente
+electr&#243;nico inmediatamente por el funcionario
+correspondiente. Un reglamento dictado por el Ministerio de
+Hacienda establecer&#225; las formas de acreditar el encontrarse
+dentro de las circunstancias indicadas en este inciso.
+     Los expedientes electr&#243;nicos, a los que tendr&#225;n
+acceso permanente los interesados, contendr&#225;n un registro
+actualizado de todas las actuaciones del procedimiento,
+seg&#250;n lo se&#241;alado en el inciso tercero, que estar&#225; a
+disposici&#243;n tanto en las plataformas electr&#243;nicas como en
+las dependencias de la Administraci&#243;n para su consulta. La
+consulta en las dependencias de la Administraci&#243;n deber&#225;
+ser guiada y asesorada, si as&#237; se requiere, para el caso de
+quienes estuvieren autorizados para efectuar presentaciones
+en soporte de papel por la Administraci&#243;n. S&#243;lo podr&#225;n
+ponerse a disposici&#243;n en soporte de papel en los casos en
+que no hubiere sido posible digitalizarse seg&#250;n se
+establece en el art&#237;culo 19 bis. En tal evento, as&#237; como
+en el caso de personas autorizadas para efectuar
+presentaciones en soporte de papel, podr&#225; solicitarse
+obtenci&#243;n de copias en soporte de papel. Un reglamento,
+dictado por el Ministerio de Hacienda, regular&#225; aquellos
+casos en que la Administraci&#243;n pueda excusarse de entregar
+copias en soporte de papel por razones de distraer
+indebidamente a los funcionarios del cumplimiento de sus
+labores habituales, esto es la utilizaci&#243;n de un tiempo
+excesivo considerando su jornada de trabajo, o un
+alejamiento de sus funciones habituales, as&#237; como en los
+que podr&#225; exigir el pago de los costos directos de
+reproducci&#243;n y la fijaci&#243;n de sus valores.
+     Excepcionalmente, cuando el sistema o las plataformas
+electr&#243;nicas que soportan los medios electr&#243;nicos no se
+encuentren disponibles por emergencia, fuerza mayor u otro
+motivo calificado, el jefe superior del servicio, por
+resoluci&#243;n fundada, podr&#225; autorizar la emisi&#243;n de ciertos
+actos administrativos as&#237; como efectuar presentaciones en
+soporte de papel. Lo anterior deber&#225; digitalizarse
+posteriormente y agregarse en el expediente electr&#243;nico
+correspondiente.
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">18 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-02-09" derogado="no derogado" idParte="8512601">
+              <Texto>     Art&#237;culo 19. Uso obligatorio de plataformas
+electr&#243;nicas. Los &#243;rganos de la Administraci&#243;n estar&#225;n
+obligados a disponer y utilizar adecuadamente plataformas
+electr&#243;nicas para efectos de llevar expedientes
+electr&#243;nicos, las que deber&#225;n cumplir con est&#225;ndares de
+seguridad, interoperabilidad, interconexi&#243;n y
+ciberseguridad.
+     Los escritos, documentos, actos y actuaciones de toda
+especie que se presenten o verifiquen en el procedimiento se
+registrar&#225;n en el expediente electr&#243;nico correspondiente,
+siguiendo las nomenclaturas pertinentes, de acuerdo a cada
+etapa del procedimiento.
+     La conservaci&#243;n de los expedientes electr&#243;nicos
+estar&#225; a cargo del &#243;rgano respectivo, el cual ser&#225; el
+responsable de su integridad, disponibilidad y autenticidad.
+     Si fuere necesaria la reconstituci&#243;n de un expediente
+o piezas de &#233;ste se reemplazar&#225; en todo o parte por una
+copia fiel, que se obtendr&#225; de quien la tuviere, si no se
+dispusiere de ella directamente.
+     Si no existiere copia fiel los actos se dictar&#225;n
+nuevamente, para lo cual la Administraci&#243;n reunir&#225; los
+antecedentes que le permitan fundamentar su preexistencia y
+contenido, y las actuaciones se repetir&#225;n con las
+formalidades previstas para cada caso.
+     Las comunicaciones oficiales entre los &#243;rganos de la
+Administraci&#243;n ser&#225;n registradas en una plataforma
+electr&#243;nica destinada al efecto.
+     Mediante reglamento, dictado por el Ministerio de
+Hacienda, se fijar&#225;n los est&#225;ndares que deber&#225;n cumplir
+dichas plataformas, en los t&#233;rminos previstos en esta ley
+considerando, adem&#225;s, condiciones de accesibilidad para los
+interesados, seguridad, funcionamiento, calidad, protecci&#243;n
+y conservaci&#243;n de los documentos.
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">19 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2024-02-09" derogado="no derogado" idParte="10067461">
+              <Texto>
+     Art&#237;culo 19 bis. Documentos electr&#243;nicos y
+digitalizaci&#243;n. Los actos de la Administraci&#243;n y los
+documentos de los interesados deber&#225;n cumplir con lo
+establecido en la ley N&#186; 19.799, sobre documentos
+electr&#243;nicos, firma electr&#243;nica y servicios de
+certificaci&#243;n de dicha firma.
+     Los documentos presentados por interesados cuyo formato
+original no sea electr&#243;nico podr&#225;n presentarse mediante
+copias digitalizadas directamente en el expediente
+electr&#243;nico. Asimismo, podr&#225;n presentarse en la
+dependencia de la Administraci&#243;n correspondiente,
+documentos electr&#243;nicos o bien en soporte de papel si lo
+anterior no fuere posible, debiendo el funcionario
+correspondiente digitalizarlos e ingresarlos inmediatamente
+al expediente electr&#243;nico.
+     La forma de cotejar la autenticidad y conformidad de
+los documentos en soporte de papel y sus copias
+digitalizadas presentadas seg&#250;n lo indicado en el inciso
+anterior ser&#225; regulada por un reglamento dictado en
+conjunto por el Ministerio de Hacienda y el Ministerio de
+las Culturas, las Artes y el Patrimonio. Toda infracci&#243;n a
+la autenticidad y conformidad de las copias digitalizadas
+respecto a los documentos originales en soporte de papel
+har&#225; incurrir en las sanciones que determine la ley.
+     En caso de documentos presentados por &#243;rganos de la
+Administraci&#243;n cuyo formato original no sea electr&#243;nico,
+&#233;stos deber&#225;n ser digitalizados por el funcionario
+correspondiente de acuerdo a lo previsto en la ley N&#186;
+18.845, que establece sistemas de microcopia o
+micrograbaci&#243;n de documentos.
+     En casos excepcionales y cuando se haya autorizado a
+una persona para efectuar presentaciones en soporte de
+papel, no ser&#225; necesario acompa&#241;ar copias digitalizadas.
+En estos casos, los documentos presentados en formato que no
+sea electr&#243;nico ser&#225;n digitalizados e ingresados
+inmediatamente por el funcionario correspondiente al
+expediente electr&#243;nico, a menos que ello no fuere
+materialmente posible por su naturaleza, formato o cantidad
+seg&#250;n los criterios que se establezcan mediante un
+reglamento dictado en conjunto por el Ministerio de Hacienda
+y el Ministerio de las Culturas, las Artes y el Patrimonio.
+En este caso, se dejar&#225; constancia de ello en el expediente
+
+
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">19 bis</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512602">
+              <Texto>     Art&#237;culo 20. Capacidad para actuar. Tendr&#225;n capacidad
+de actuar ante la Administraci&#243;n, adem&#225;s de las personas
+que gocen de ella o la ejerzan con arreglo a las normas
+generales, los menores de edad para el ejercicio y defensa
+de aquellos de sus derechos e intereses cuya actuaci&#243;n
+est&#233; permitida por el ordenamiento jur&#237;dico-administrativo
+sin la asistencia de la persona que ejerza la patria
+potestad, tutela o curatela. Se except&#250;a el supuesto de los
+menores incapacitados, cuando la extensi&#243;n de la
+incapacitaci&#243;n afecte al ejercicio y defensa de los
+derechos o intereses de que se trate.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">20 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512603">
+              <Texto>     Art&#237;culo 21. Interesados. Se consideran interesados en
+el procedimiento administrativo:
+
+     1. Quienes lo promuevan como titulares de derechos o
+intereses individuales o colectivos.
+     2. Los que, sin haber iniciado el procedimiento, tengan
+derechos que puedan resultar afectados por la decisi&#243;n que
+en el mismo se adopte.
+     3. Aqu&#233;llos cuyos intereses, individuales o
+colectivos, puedan resultar afectados por la resoluci&#243;n y
+se apersonen en el procedimiento en tanto no haya reca&#237;do
+resoluci&#243;n definitiva.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">21 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512604">
+              <Texto>     Art&#237;culo 22. Apoderados. Los interesados podr&#225;n
+actuar por medio de apoderados, entendi&#233;ndose que &#233;stos
+tienen todas las facultades necesarias para la consecuci&#243;n
+del acto administrativo, salvo manifestaci&#243;n expresa en
+contrario.
+     El poder podr&#225; constar en documento suscrito mediante
+firma electr&#243;nica simple o avanzada. Se aceptar&#225; tambi&#233;n
+aquel que conste por escritura p&#250;blica o documento privado
+suscrito ante notario. Con todo, se requerir&#225; siempre de
+documento suscrito mediante firma electr&#243;nica avanzada o de
+escritura p&#250;blica cuando el acto administrativo de que se
+trate produzca efectos que exijan solemnidad de instrumento
+o escritura p&#250;blica.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">22 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512605">
+              <Texto>     Art&#237;culo 23. Obligaci&#243;n de cumplimiento de los
+plazos. Los t&#233;rminos y plazos establecidos en &#233;sta u otras
+leyes obligan a las autoridades y personal al servicio de la
+Administraci&#243;n en la tramitaci&#243;n de los asuntos, as&#237; como
+los interesados en los mismos. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">23 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512606">
+              <Texto>     Art&#237;culo 24. El funcionario del organismo al que
+corresponda resolver, que reciba una solicitud, documento o
+expediente, deber&#225; hacerlo llegar a la dependencia
+respectiva, a trav&#233;s de medios electr&#243;nicos, a m&#225;s tardar
+dentro de las 24 horas siguientes a su recepci&#243;n.
+     Las providencias de mero tr&#225;mite deber&#225;n dictarse por
+quien deba hacerlo, dentro del plazo de 48 horas contado
+desde la recepci&#243;n de la solicitud, documento o expediente.
+     Los informes, dict&#225;menes u otras actuaciones
+similares, deber&#225;n evacuarse dentro del plazo de 10 d&#237;as,
+contado desde la petici&#243;n de la diligencia.
+     Las decisiones definitivas deber&#225;n expedirse dentro de
+los 20 d&#237;as siguientes, contados desde que, a petici&#243;n del
+interesado, se certifique que el acto se encuentra en estado
+de resolverse. La prolongaci&#243;n injustificada de la
+certificaci&#243;n dar&#225; origen a responsabilidad
+administrativa.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">24 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="10067462">
+              <Texto>
+     Art&#237;culo 24 bis. En virtud de los principios de
+interoperabilidad y cooperaci&#243;n, en todo procedimiento
+administrativo los &#243;rganos de la Administraci&#243;n del Estado
+que tengan en su poder documentos o informaci&#243;n respecto de
+materias de su competencia, que sean necesarios para su
+conocimiento o resoluci&#243;n, deber&#225;n remitirlos por medios
+electr&#243;nicos a aquel &#243;rgano ante el cual se estuviere
+tramitando el respectivo procedimiento, que as&#237; lo
+solicite. No obstante, se requerir&#225; previa autorizaci&#243;n
+del interesado en los t&#233;rminos indicados en la letra f) del
+art&#237;culo 30, en el caso de que dichos documentos o
+informaci&#243;n contengan datos sensibles de aquel interesado,
+ya sea que est&#233;n incluidos o no en bases de datos
+personales, de conformidad con lo establecido en el
+art&#237;culo 30.
+     Se dejar&#225; registro de toda solicitud entre los
+&#243;rganos de la Administraci&#243;n del Estado respecto a
+informaci&#243;n de car&#225;cter sensible del interesado, al que
+tendr&#225;n acceso. Este registro deber&#225; indicar, al menos, lo
+siguiente:
+ 
+     a) El &#243;rgano requirente.
+     b) El funcionario responsable.
+     c) El &#243;rgano destinatario.
+     d) El procedimiento a que corresponde.
+     e) Los datos o informaci&#243;n que se solicita.
+     f) El plazo establecido para su realizaci&#243;n, si
+corresponde.
+ 
+     Para efectos de este art&#237;culo ser&#225; aplicable lo
+dispuesto en los art&#237;culos 7&#186; y 11 de la ley N&#186; 19.628.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">24 BIS</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512607">
+              <Texto>     Art&#237;culo 25. C&#243;mputo de los plazos del procedimiento
+administrativo. Los plazos de d&#237;as establecidos en esta ley
+son de d&#237;as h&#225;biles, entendi&#233;ndose que son inh&#225;biles los
+d&#237;as s&#225;bados, los domingos y los festivos.
+     Los plazos se computar&#225;n desde el d&#237;a siguiente a
+aqu&#233;l en que se notifique o publique el acto de que se
+trate o se produzca su estimaci&#243;n o su desestimaci&#243;n en
+virtud del silencio administrativo. Si en el mes de
+vencimiento no hubiere equivalente al d&#237;a del mes en que
+comienza el c&#243;mputo, se entender&#225; que el plazo expira el
+&#250;ltimo d&#237;a de aquel mes.
+     Cuando el &#250;ltimo d&#237;a del plazo sea inh&#225;bil, &#233;ste se
+entender&#225; prorrogado al primer d&#237;a h&#225;bil siguiente.
+     Las plataformas electr&#243;nicas permitir&#225;n la
+presentaci&#243;n de documentos todos los d&#237;as del a&#241;o durante
+las veinticuatro horas. No obstante, la presentaci&#243;n en un
+d&#237;a inh&#225;bil se entender&#225; realizada en la primera hora del
+primer d&#237;a h&#225;bil siguiente. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">25 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512608">
+              <Texto>     Art&#237;culo 26. Ampliaci&#243;n de los plazos. La
+Administraci&#243;n, salvo disposici&#243;n en contrario, podr&#225;
+conceder, de oficio o a petici&#243;n de los interesados, una
+ampliaci&#243;n de los plazos establecidos, que no exceda de la
+mitad de los mismos, si las circunstancias lo aconsejan y
+con ello no se perjudican derechos de tercero.
+     Tanto la petici&#243;n de los interesados como la decisi&#243;n
+sobre la ampliaci&#243;n, deber&#225;n producirse, en todo caso,
+antes del vencimiento del plazo de que se trate.
+     En ning&#250;n caso podr&#225; ser objeto de ampliaci&#243;n un
+plazo ya vencido.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">26 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512609">
+              <Texto>     Art&#237;culo 27. Salvo caso fortuito o fuerza mayor, el
+procedimiento administrativo no podr&#225; exceder de 6 meses,
+desde su iniciaci&#243;n hasta la fecha en que se emita la
+decisi&#243;n final.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">27 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512611">
+          <Texto>     P&#225;rrafo 2&#186;
+
+     Iniciaci&#243;n del procedimiento</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#186; Iniciaci&#243;n del Procedimiento</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512610">
+              <Texto>     Art&#237;culo 28. Inicio. Los procedimientos podr&#225;n
+iniciarse de oficio o a solicitud de persona interesada. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">28 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512612">
+              <Texto>     Art&#237;culo 29. Inicio de oficio. Los procedimientos se
+iniciar&#225;n de oficio por propia iniciativa, como
+consecuencia de una orden superior, a petici&#243;n de otros
+&#243;rganos o por denuncia.
+     Con anterioridad al acuerdo de iniciaci&#243;n, podr&#225; el
+&#243;rgano competente abrir un per&#237;odo de informaci&#243;n previa
+con el fin de conocer las circunstancias del caso concreto y
+la conveniencia o no de iniciar el procedimiento.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">29 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-02-05" derogado="no derogado" idParte="8512613">
+              <Texto>     Art&#237;culo 30. Inicio a solicitud de parte. En caso que
+el procedimiento se inicie a petici&#243;n de parte interesada,
+la solicitud que se formule deber&#225; contener:
+
+
+     a) Nombre y apellidos del interesado o su raz&#243;n social
+y, en su caso, de su apoderado o representante legal.
+     b) Excepcionalmente, en los casos a los que se refiere
+el art&#237;culo 46, medio electr&#243;nico a trav&#233;s del cual se
+llevar&#225;n a cabo las notificaciones.
+     c) Hechos, razones y peticiones en que consiste la
+solicitud
+     d) Lugar y fecha.
+     e) Firma del solicitante o acreditaci&#243;n de la
+autenticidad de su voluntad expresada por cualquier medio
+habilitado.
+     f) &#211;rgano administrativo al que se dirige.
+     g) Manifestaci&#243;n si se autoriza al &#243;rgano de la
+Administraci&#243;n del Estado que tuviera en su poder
+documentos o informaci&#243;n que contengan datos de car&#225;cter
+sensible del interesado, para que &#233;stos sean remitidos por
+medios electr&#243;nicos al &#243;rgano que corresponda resolver en
+el procedimiento respectivo, conforme al art&#237;culo 9&#186; de la
+ley N&#186; 19.628.
+
+     Cuando las pretensiones correspondientes a una
+pluralidad de personas, tengan un contenido y fundamento
+id&#233;ntico o sustancialmente similar, podr&#225;n ser formuladas
+en una &#250;nica solicitud, salvo que las normas reguladoras de
+los procedimientos espec&#237;ficos dispongan otra cosa.
+     De las solicitudes, comunicaciones y escritos que
+presenten los interesados en las oficinas de la
+Administraci&#243;n, podr&#225;n &#233;stos exigir el correspondiente
+recibo que acredite la fecha de presentaci&#243;n,
+consider&#225;ndose suficiente acreditaci&#243;n un certificado de
+ingreso generado por la plataforma electr&#243;nica donde se
+acceda al expediente electr&#243;nico, en el que figure la fecha
+de presentaci&#243;n.
+     La Administraci&#243;n deber&#225; establecer formularios de
+solicitudes cuando se trate de procedimientos de com&#250;n
+tramitaci&#243;n, los que estar&#225;n a disposici&#243;n de los
+ciudadanos por medios electr&#243;nicos o en las dependencias
+administrativas, en los casos autorizados de tramitaci&#243;n
+mediante presentaciones en soporte de papel. En dichos
+formularios el organismo se&#241;alar&#225; expresamente el medio a
+trav&#233;s del cual se practicar&#225;n las notificaciones a los
+interesados. Excepcionalmente, podr&#225; indicar un medio
+alternativo de notificaci&#243;n, en los t&#233;rminos se&#241;alados en
+el art&#237;culo 46.
+     Los solicitantes podr&#225;n acompa&#241;ar los documentos que
+estimen convenientes para precisar o completar los datos del
+formulario, los cuales deber&#225;n ser admitidos y tenidos en
+cuenta por el &#243;rgano al que se dirijan. 
+
+
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">30 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512614">
+              <Texto>     Art&#237;culo 31. Antecedentes adicionales. Si la solicitud
+de iniciaci&#243;n no re&#250;ne los requisitos se&#241;alados en el
+art&#237;culo precedente y los exigidos, en su caso, por la
+legislaci&#243;n espec&#237;fica aplicable, se requerir&#225; al
+interesado para que, en un plazo de cinco d&#237;as, subsane la
+falta o acompa&#241;e los documentos respectivos, con
+indicaci&#243;n de que, si as&#237; no lo hiciere, se le tendr&#225; por
+desistido de su petici&#243;n.
+     En los procedimientos iniciados a solicitud de los
+interesados, el &#243;rgano competente podr&#225; recabar del
+solicitante la modificaci&#243;n o mejora voluntarias de los
+t&#233;rminos de aqu&#233;lla. De ello se levantar&#225; acta sucinta,
+que se incorporar&#225; al procedimiento.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">31 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512615">
+              <Texto>     Art&#237;culo 32. Medidas provisionales. Iniciado el
+procedimiento, el &#243;rgano administrativo podr&#225; adoptar, de
+oficio o a petici&#243;n de parte, las medidas provisionales que
+estime oportunas para asegurar la eficacia de la decisi&#243;n
+que pudiera recaer, si existiesen elementos de juicio
+suficientes para ello.
+     Sin embargo, antes de la iniciaci&#243;n del procedimiento
+administrativo, el &#243;rgano competente, de oficio o a
+petici&#243;n de parte, en los casos de urgencia y para la
+protecci&#243;n provisional de los intereses implicados, podr&#225;
+adoptar las medidas correspondientes. Estas medidas
+provisionales deber&#225;n ser confirmadas, modificadas o
+levantadas en la iniciaci&#243;n del procedimiento, que deber&#225;
+efectuarse dentro de los quince d&#237;as siguientes a su
+adopci&#243;n, el cual podr&#225; ser objeto del recurso que
+proceda.
+     En todo caso, las medidas a que se refiere el inciso
+anterior, quedar&#225;n sin efecto si no se inicia el
+procedimiento en dicho plazo, o cuando la decisi&#243;n de
+iniciaci&#243;n no contenga un pronunciamiento expreso acerca de
+las mismas.
+     No se podr&#225;n adoptar medidas provisionales que puedan
+causar perjuicio de dif&#237;cil o imposible reparaci&#243;n a los
+interesados, o que impliquen violaci&#243;n de derechos
+amparados por las leyes.
+     Las medidas provisionales podr&#225;n ser alzadas o
+modificadas durante la tramitaci&#243;n del procedimiento, de
+oficio o a petici&#243;n de parte, en virtud de circunstancias
+sobrevinientes o que no pudieron ser tenidas en cuenta en el
+momento de su adopci&#243;n.
+     En todo caso, las medidas de que trata este art&#237;culo,
+se extinguir&#225;n con la eficacia de la resoluci&#243;n
+administrativa que ponga fin al procedimiento
+correspondiente.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">32 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512616">
+              <Texto>     Art&#237;culo 33. Acumulaci&#243;n o desacumulaci&#243;n de
+procedimientos. El &#243;rgano administrativo que inicie o
+tramite un procedimiento, cualquiera que haya sido la forma
+de su iniciaci&#243;n, podr&#225; disponer su acumulaci&#243;n a otros
+m&#225;s antiguos con los que guarde identidad sustancial o
+&#237;ntima conexi&#243;n, o su desacumulaci&#243;n.
+     Contra esta resoluci&#243;n no proceder&#225; recurso alguno. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">33 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512618">
+          <Texto>     P&#225;rrafo 3&#186;
+
+     Instrucci&#243;n del procedimiento</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#186; Instrucci&#243;n del Procedimiento</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512617">
+              <Texto>     Art&#237;culo 34. Actos de instrucci&#243;n. Los actos de
+instrucci&#243;n son aqu&#233;llos necesarios para la
+determinaci&#243;n, conocimiento y comprobaci&#243;n de los datos en
+virtud de los cuales deba pronunciarse el acto.
+     Se realizar&#225;n de oficio por el &#243;rgano que tramite el
+procedimiento, sin perjuicio del derecho de los interesados
+a proponer aquellas actuaciones que requieran su
+intervenci&#243;n, o constituyan tr&#225;mites legal o
+reglamentariamente establecidos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">34 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512619">
+              <Texto>     Art&#237;culo 35. Prueba. Los hechos relevantes para la
+decisi&#243;n de un procedimiento, podr&#225;n acreditarse por
+cualquier medio de prueba admisible en derecho,
+apreci&#225;ndose en conciencia.
+     Cuando a la Administraci&#243;n no le consten los hechos
+alegados por los interesados o la naturaleza del
+procedimiento lo exija, el instructor del mismo ordenar&#225; la
+apertura de un per&#237;odo de prueba, por un plazo no superior
+a treinta d&#237;as ni inferior a diez, a fin de que puedan
+practicarse cuantas juzgue pertinentes.
+     El instructor del procedimiento s&#243;lo podr&#225; rechazar
+las pruebas propuestas por los interesados cuando sean
+manifiestamente improcedentes o innecesarias, mediante
+resoluci&#243;n motivada.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">35 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512620">
+              <Texto>     Art&#237;culo 36. Momento de la prueba. La Administraci&#243;n
+comunicar&#225; a los interesados, con la suficiente
+antelaci&#243;n, el inicio de las actuaciones necesarias para la
+realizaci&#243;n de las pruebas que hayan sido admitidas.
+     En la notificaci&#243;n se consignar&#225; el lugar, fecha y
+hora en que se practicar&#225; la prueba, con la advertencia, en
+su caso, de que el interesado puede nombrar peritos para que
+le asistan.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">36 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512621">
+              <Texto>     Art&#237;culo 37. Informes. Para los efectos de la
+resoluci&#243;n del procedimiento, se solicitar&#225;n aquellos
+informes que se&#241;alen las disposiciones legales, y los que
+se juzguen necesarios para resolver, cit&#225;ndose el precepto
+que los exija o fundamentando, en su caso, la conveniencia
+de requerirlos.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">37 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2017-02-23" derogado="no derogado" idParte="9773801">
+              <Texto>
+     Art&#237;culo 37 bis.- Cuando un &#243;rgano de la
+Administraci&#243;n del Estado deba evacuar un acto
+administrativo de car&#225;cter general que tenga claros efectos
+en los &#225;mbitos de competencia de otro &#243;rgano, le remitir&#225;
+todos los antecedentes y requerir&#225; de &#233;ste un informe para
+efectos de evitar o precaver conflictos de normas, con el
+objeto de resguardar la coordinaci&#243;n, cooperaci&#243;n y
+colaboraci&#243;n entre los &#243;rganos involucrados en su
+dictaci&#243;n.
+     Los &#243;rganos administrativos cuyo informe se solicite
+deber&#225;n evacuarlo dentro del plazo de treinta d&#237;as
+corridos, contado desde la fecha en que hubieren recibido el
+requerimiento a que se refiere el inciso precedente. El
+requirente valorar&#225; el contenido de la opini&#243;n del &#243;rgano
+administrativo requerido, expres&#225;ndolo en la motivaci&#243;n
+del acto administrativo de car&#225;cter general que dicte, de
+conformidad con lo dispuesto en el art&#237;culo 41.
+Transcurrido el plazo sin que se hubiere recibido el
+correspondiente informe, se proceder&#225; conforme al inciso
+segundo del art&#237;culo 38.
+     El requerimiento y los informes que emitan los &#243;rganos
+administrativos en virtud de los incisos anteriores se
+sujetar&#225;n en su forma, valor y tramitaci&#243;n a lo se&#241;alado
+en los art&#237;culos 37 y 38.
+     No regir&#225; lo establecido en los incisos anteriores en
+los casos en que el acto administrativo de car&#225;cter general
+requiera aplicaci&#243;n inmediata o en el m&#225;s breve plazo
+posible, atendida su naturaleza y urgencia, circunstancia
+que deber&#225; ser justificada y de la cual se dejar&#225;
+constancia en su texto.
+     Con todo, el &#243;rgano administrativo autor de dicho
+acto, con posterioridad a su dictaci&#243;n, deber&#225; remitirle a
+los otros &#243;rganos administrativos competentes todos los
+antecedentes tenidos a la vista y requerir de &#233;stos un
+informe, con el prop&#243;sito de cumplir con los objetivos
+se&#241;alados en el inciso primero, en la aplicaci&#243;n del acto
+administrativo respectivo.
+
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">37 BIS</NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512622">
+              <Texto>     Art&#237;culo 38. Valor de los informes. Salvo disposici&#243;n
+expresa en contrario, los informes ser&#225;n facultativos y no
+vinculantes.
+     Si el informe debiera ser emitido por un &#243;rgano de la
+Administraci&#243;n distinto del que tramita el procedimiento en
+orden a expresar el punto de vista correspondiente a sus
+competencias respectivas, y transcurriera el plazo sin que
+aqu&#233;l se hubiera evacuado, se podr&#225;n proseguir las
+actuaciones. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">38 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512623">
+              <Texto>     Art&#237;culo 39. Informaci&#243;n p&#250;blica. El &#243;rgano al que
+corresponda la resoluci&#243;n del procedimiento, cuando la
+naturaleza de &#233;ste lo requiera, podr&#225; ordenar un per&#237;odo
+de informaci&#243;n p&#250;blica.
+     Para tales efectos, se anunciar&#225; en el Diario Oficial
+o en un diario de circulaci&#243;n nacional, a fin de que
+cualquier persona pueda examinar el procedimiento, o la
+parte del mismo que se indique.
+     El anuncio se&#241;alar&#225; el lugar de exhibici&#243;n y
+determinar&#225; el plazo para formular observaciones, que en
+ning&#250;n caso podr&#225; ser inferior a diez d&#237;as.
+     La falta de actuaci&#243;n en este tr&#225;mite, no impedir&#225; a
+los interesados interponer los recursos procedentes contra
+la resoluci&#243;n definitiva del procedimiento.
+     La actuaci&#243;n en el tr&#225;mite de informaci&#243;n p&#250;blica
+no otorga, por s&#237; misma, la condici&#243;n de interesado. En
+todo caso, la Administraci&#243;n otorgar&#225; una respuesta
+razonada, en lo pertinente, que podr&#225; ser com&#250;n para todas
+aquellas observaciones que planteen cuestiones
+sustancialmente iguales.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">39 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512625">
+          <Texto>     P&#225;rrafo 4&#186;
+
+     Finalizaci&#243;n del procedimiento</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 4&#186; Finalizaci&#243;n del Procedimiento</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512624">
+              <Texto>     Art&#237;culo 40. Conclusi&#243;n del procedimiento. Pondr&#225;n
+t&#233;rmino al procedimiento la resoluci&#243;n final, el
+desistimiento, la declaraci&#243;n de abandono y la renuncia al
+derecho en que se funde la solicitud, cuando tal renuncia no
+est&#233; prohibida por el ordenamiento jur&#237;dico.
+     Tambi&#233;n producir&#225; la terminaci&#243;n del procedimiento
+la imposibilidad material de continuarlo por causas
+sobrevinientes. La resoluci&#243;n que se dicte deber&#225; ser
+fundada en todo caso.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">40 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512626">
+              <Texto>     Art&#237;culo 41. Contenido de la resoluci&#243;n final. La
+resoluci&#243;n que ponga fin al procedimiento decidir&#225; las
+cuestiones planteadas por los interesados.
+     Cuando en la elaboraci&#243;n de la resoluci&#243;n final se
+adviertan cuestiones conexas, ellas ser&#225;n puestas en
+conocimiento de los interesados, quienes dispondr&#225;n de un
+plazo de quince d&#237;as para formular las alegaciones que
+estimen pertinentes y aportar, en su caso, medios de prueba.
+Transcurrido ese plazo el &#243;rgano competente decidir&#225; sobre
+ellas en la resoluci&#243;n final.
+     En los procedimientos tramitados a solicitud del
+interesado, la resoluci&#243;n deber&#225; ajustarse a las
+peticiones formuladas por &#233;ste, sin que en ning&#250;n caso
+pueda agravar su situaci&#243;n inicial y sin perjuicio de la
+potestad de la Administraci&#243;n de incoar de oficio un nuevo
+procedimiento, si fuere procedente.
+     Las resoluciones contendr&#225;n la decisi&#243;n, que ser&#225;
+fundada. Expresar&#225;n, adem&#225;s, los recursos que contra la
+misma procedan, &#243;rgano administrativo o judicial ante el
+que hubieran de presentarse y plazo para interponerlos, sin
+perjuicio de que los interesados puedan ejercitar cualquier
+otro que estimen oportuno.
+     En ning&#250;n caso podr&#225; la Administraci&#243;n abstenerse de
+resolver so pretexto de silencio, oscuridad o insuficiencia
+de los preceptos legales aplicables al caso, aunque podr&#225;
+resolver la inadmisibilidad de las solicitudes de
+reconocimiento de derechos no previstos en el ordenamiento
+jur&#237;dico o manifiestamente carentes de fundamento.
+     La aceptaci&#243;n de informes o dict&#225;menes servir&#225; de
+motivaci&#243;n a la resoluci&#243;n cuando se incorporen al texto
+de la misma.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">41 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2019-11-11" derogado="no derogado" idParte="8512627">
+              <Texto>     Art&#237;culo 42. Renuncia y Desistimiento. Todo interesado
+podr&#225; desistirse de su solicitud o, cuando ello no est&#233;
+prohibido por el ordenamiento jur&#237;dico, renunciar a sus
+derechos.
+     Si la solicitud de iniciaci&#243;n se hubiera formulado por
+dos o m&#225;s interesados, el desistimiento o la renuncia s&#243;lo
+afectar&#225; a aqu&#233;llos que la hubiesen formulado.
+     Tanto el desistimiento como la renuncia podr&#225;n hacerse
+por cualquier medio que permita su constancia. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">42 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512628">
+              <Texto>     Art&#237;culo 43. Abandono. Cuando por la inactividad de un
+interesado se produzca por m&#225;s de treinta d&#237;as la
+paralizaci&#243;n del procedimiento iniciado por &#233;l, la
+Administraci&#243;n le advertir&#225; que si no efect&#250;a las
+diligencias de su cargo en el plazo de siete d&#237;as,
+declarar&#225; el abandono de ese procedimiento.
+     Transcurrido el plazo se&#241;alado precedentemente, sin
+que el particular requerido realice las actividades
+necesarias para reanudar la tramitaci&#243;n, la Administraci&#243;n
+declarar&#225; abandonado el procedimiento y ordenar&#225; su
+archivo, notific&#225;ndoselo al interesado.
+     El abandono no producir&#225; por s&#237; solo la prescripci&#243;n
+de las acciones del particular o de la Administraci&#243;n. En
+todo caso, los procedimientos abandonados no interrumpir&#225;n
+el plazo de prescripci&#243;n. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">43 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512629">
+              <Texto>     Art&#237;culo 44. Excepci&#243;n del abandono. La
+Administraci&#243;n podr&#225; no declarar el abandono, cuando la
+cuesti&#243;n suscitada afecte al inter&#233;s general o fuera
+conveniente continuarla para su definici&#243;n y
+esclarecimiento.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">44 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Cap&#237;tulo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512631">
+      <Texto>     CAPITULO III
+
+     Publicidad y ejecutividad de los actos
+administrativos</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">CAPITULO III Publicidad y ejecutividad de los actos administrativos</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512632">
+          <Texto>     P&#225;rrafo 1&#186;
+
+     Notificaci&#243;n</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#186; Notificaci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512630">
+              <Texto>     Art&#237;culo 45. Procedencia. Los actos administrativos de
+efectos individuales, deber&#225;n ser notificados a los
+interesados conteniendo su texto &#237;ntegro.
+     Las notificaciones deber&#225;n practicarse, a m&#225;s tardar,
+en los cinco d&#237;as siguientes a aqu&#233;l en que ha quedado
+totalmente tramitado el acto administrativo.
+     No obstante lo anterior, los actos administrativos que
+afectaren a personas cuyo paradero fuere ignorado, deber&#225;n
+publicarse en el Diario Oficial.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">45 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-02-05" derogado="no derogado" idParte="8512633">
+              <Texto>     Art&#237;culo 46. Procedimiento. Las notificaciones se
+practicar&#225;n por medios electr&#243;nicos en base a la
+informaci&#243;n contenida en un registro &#250;nico dependiente de
+la Secretar&#237;a de Gobierno Digital de la Subsecretar&#237;a de
+Hacienda sobre el cual se configurar&#225;n domicilios digitales
+&#250;nicos, cuyas caracter&#237;sticas y operatividad ser&#225;
+regulada mediante reglamento dictado conjuntamente por el
+Ministerio de Hacienda. Dichas notificaciones tendr&#225;n el
+car&#225;cter de personal. Las notificaciones, citaciones y
+comunicaciones a trav&#233;s del domicilio &#250;nico digital
+definido por la ley, producir&#225;n pleno efecto legal y se
+entender&#225;n practicadas al tercer d&#237;a h&#225;bil siguiente
+contado desde la fecha de su env&#237;o
+     Quienes carezcan de los medios tecnol&#243;gicos, no tengan
+acceso a medios electr&#243;nicos o s&#243;lo actuaren
+excepcionalmente a trav&#233;s de ellos, podr&#225;n solicitar por
+medio de un formulario, ante el &#243;rgano respectivo que la
+notificaci&#243;n se practique mediante forma diversa, quien
+deber&#225; pronunciarse dentro del tercer d&#237;a, seg&#250;n lo
+establezca el reglamento, y deber&#225; hacerlo de manera
+fundada en caso de denegar la solicitud. La notificaci&#243;n se
+realizar&#225; en la forma solicitada si fuere posible o
+mediante carta certificada dirigida al domicilio que debiere
+designar al presentar esta solicitud. En caso de
+notificaciones por carta certificada, &#233;stas se entender&#225;n
+practicadas a contar del tercer d&#237;a siguiente a su
+recepci&#243;n en la oficina de correos que corresponda.
+     Asimismo, las notificaciones podr&#225;n hacerse en las
+dependencias de la Administraci&#243;n, si el interesado se
+apersonare a recibirla, dej&#225;ndose constancia de ello en el
+expediente electr&#243;nico, consign&#225;ndose la fecha y hora de
+la misma. Si el interesado requiriere copia del acto o
+resoluci&#243;n que se le notifica se le dar&#225;, sin m&#225;s
+tr&#225;mite, en el mismo momento, en el formato que se tramite
+el procedimiento.
+     En los procedimientos administrativos especiales en los
+que la ley establezca un medio de notificaci&#243;n distinto al
+establecido en el inciso primero, los &#243;rganos de la
+Administraci&#243;n podr&#225;n practicar las notificaciones a
+trav&#233;s de dichos medios de notificaci&#243;n especial o en la
+forma establecida en el presente art&#237;culo. Los &#243;rganos de
+la Administraci&#243;n del Estado deber&#225;n informar expresamente
+a los interesados el medio a trav&#233;s del cual se les
+practicar&#225;n las notificaciones, en los formularios a los
+que se refieren los art&#237;culos 18 y 30.
+     Mediante el reglamento referido en el inciso primero se
+regular&#225; de qu&#233; forma los &#243;rganos de la Administraci&#243;n
+deber&#225;n practicar las notificaciones electr&#243;nicas,
+considerarlas practicadas y obtener informaci&#243;n necesaria
+para llevar el registro indicado, estableciendo, a lo menos,
+los requisitos y condiciones necesarios que aseguren la
+constancia de la fecha y hora de env&#237;o de notificaciones,
+la recepci&#243;n o acceso por el interesado o su apoderado,
+especialmente en el caso de la primera notificaci&#243;n para
+resguardar su derecho a la defensa, as&#237; como la integridad
+del contenido, la identidad fidedigna del remitente y el
+destinatario de la misma.
+
+
+</Texto>
+              <Metadatos>
+                <NombreParte presente="si">46 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512634">
+              <Texto>     Art&#237;culo 47. Notificaci&#243;n t&#225;cita. Aun cuando no
+hubiere sido practicada notificaci&#243;n alguna, o la que
+existiere fuere viciada, se entender&#225; el acto debidamente
+notificado si el interesado a quien afectare, hiciere
+cualquier gesti&#243;n en el procedimiento, con posterioridad al
+acto, que suponga necesariamente su conocimiento, sin haber
+reclamado previamente de su falta o nulidad.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">47 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512636">
+          <Texto>     P&#225;rrafo 2&#186;
+
+     Publicaci&#243;n</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#186; Publicaci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512635">
+              <Texto>     Art&#237;culo 48. Obligaci&#243;n de publicar. Deber&#225;n
+publicarse en el Diario Oficial los siguientes actos
+administrativos:
+
+     a) Los que contengan normas de general aplicaci&#243;n o
+que miren al inter&#233;s general;
+     b) Los que interesen a un n&#250;mero indeterminado de
+personas;
+     c) Los que afectaren a personas cuyo paradero fuere
+ignorado, de conformidad a lo establecido en el art&#237;culo
+45;
+     d) Los que ordenare publicar el Presidente de la
+Rep&#250;blica; y
+     e) Los actos respecto de los cuales la ley ordenare
+especialmente este tr&#225;mite.
+
+     Trat&#225;ndose de los actos a que se refiere la letra c),
+la publicaci&#243;n deber&#225; efectuarse los d&#237;as 1&#186; &#243; 15 de
+cada mes o al d&#237;a siguiente, si fuese inh&#225;bil. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">48 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512637">
+              <Texto>     Art&#237;culo 49. Autenticaci&#243;n. Los actos publicados en
+el Diario Oficial se tendr&#225;n como aut&#233;nticos y
+oficialmente notificados, obligando desde esa fecha a su
+&#237;ntegro y cabal cumplimiento, salvo que se establecieren
+reglas diferentes sobre la fecha en que haya de entrar en
+vigencia.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">49 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512639">
+          <Texto>     P&#225;rrafo 3&#186;
+
+     Ejecuci&#243;n</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#186; Ejecuci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512638">
+              <Texto>     Art&#237;culo 50. T&#237;tulo. La Administraci&#243;n P&#250;blica no
+iniciar&#225; ninguna actuaci&#243;n material de ejecuci&#243;n de
+resoluciones que limite derechos de los particulares sin que
+previamente haya sido adoptada la resoluci&#243;n que le sirva
+de fundamento jur&#237;dico.
+     El &#243;rgano que ordene un acto de ejecuci&#243;n material de
+resoluciones estar&#225; obligado a notificar al particular
+interesado la resoluci&#243;n que autorice la actuaci&#243;n
+administrativa.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">50 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512640">
+              <Texto>     Art&#237;culo 51. Ejecutoriedad. Los actos de la
+Administraci&#243;n P&#250;blica sujetos al Derecho Administrativo
+causan inmediata ejecutoriedad, salvo en aquellos casos en
+que una disposici&#243;n establezca lo contrario o necesiten
+aprobaci&#243;n o autorizaci&#243;n superior.
+     Los decretos y las resoluciones producir&#225;n efectos
+jur&#237;dicos desde su notificaci&#243;n o publicaci&#243;n, seg&#250;n
+sean de contenido individual o general.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">51 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512641">
+              <Texto>     Art&#237;culo 52. Retroactividad. Los actos administrativos
+no tendr&#225;n efecto retroactivo, salvo cuando produzcan
+consecuencias favorables para los interesados y no lesionen
+derechos de terceros. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">52 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Cap&#237;tulo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512643">
+      <Texto>     CAPITULO IV
+
+     Revisi&#243;n de los actos administrativos</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">CAPITULO IV Revisi&#243;n de los actos administrativos</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512644">
+          <Texto>     P&#225;rrafo 1&#186;
+
+     Principios generales</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 1&#186; Principios Generales</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2026-10-17" derogado="no derogado" idParte="8512642">
+              <Texto>     Art&#237;culo 53. Invalidaci&#243;n. La autoridad
+administrativa podr&#225;, de oficio o a petici&#243;n de parte,
+invalidar los actos contrarios a derecho, previa audiencia
+del interesado, siempre que lo haga dentro del plazo de un
+a&#241;o contado desde la notificaci&#243;n o publicaci&#243;n del acto.
+     La invalidaci&#243;n de un acto administrativo podr&#225; ser
+total o parcial. La invalidaci&#243;n parcial no afectar&#225; las
+disposiciones que sean independientes de la parte
+invalidada.
+     El acto invalidatorio ser&#225; siempre impugnable ante los
+Tribunales de Justicia, en procedimiento breve y sumario.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">53 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512645">
+              <Texto>     Art&#237;culo 54. Interpuesta por un interesado una
+reclamaci&#243;n ante la Administraci&#243;n, no podr&#225; el mismo
+reclamante deducir igual pretensi&#243;n ante los Tribunales de
+Justicia, mientras aqu&#233;lla no haya sido resuelta o no haya
+transcurrido el plazo para que deba entenderse desestimada.
+     Planteada la reclamaci&#243;n se interrumpir&#225; el plazo
+para ejercer la acci&#243;n jurisdiccional. Este volver&#225; a
+contarse desde la fecha en que se notifique el acto que la
+resuelve o, en su caso, desde que la reclamaci&#243;n se
+entienda desestimada por el transcurso del plazo.
+     Si respecto de un acto administrativo se deduce acci&#243;n
+jurisdiccional por el interesado, la Administraci&#243;n deber&#225;
+inhibirse de conocer cualquier reclamaci&#243;n que &#233;ste
+interponga sobre la misma pretensi&#243;n.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">54 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512646">
+              <Texto>     Art&#237;culo 55. Notificaci&#243;n a terceros. Se notificar&#225;
+a los interesados que hubieren participado en el
+procedimiento, la interposici&#243;n de los recursos, para que
+en el plazo de cinco d&#237;as aleguen cuanto consideren
+procedente en defensa de sus intereses.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">55 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512647">
+              <Texto>     Art&#237;culo 56. La autoridad correspondiente ordenar&#225;
+que se corrijan por la Administraci&#243;n o por el interesado,
+en su caso, los vicios que advierta en el procedimiento,
+fijando plazos para tal efecto. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">56 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512648">
+              <Texto>     Art&#237;culo 57. Suspensi&#243;n del acto. La interposici&#243;n
+de los recursos administrativos no suspender&#225; la ejecuci&#243;n
+del acto impugnado.
+     Con todo, la autoridad llamada a resolver el recurso, a
+petici&#243;n fundada del interesado, podr&#225; suspender la
+ejecuci&#243;n cuando el cumplimiento del acto recurrido pudiere
+causar da&#241;o irreparable o hacer imposible el cumplimiento
+de lo que se resolviere, en caso de acogerse el recurso.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">57 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512649">
+              <Texto>     Art&#237;culo 58. Publicidad de los actos recurridos. Las
+resoluciones que acogieren recursos interpuestos contra
+actos que hayan sido publicados en el Diario Oficial,
+deber&#225;n ser publicadas en extracto en dicho peri&#243;dico en
+la edici&#243;n correspondiente a los d&#237;as 1&#186; &#243; 15 de cada
+mes o al d&#237;a siguiente si fuere inh&#225;bil. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">58 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512651">
+          <Texto>     P&#225;rrafo 2&#186;
+
+     De los recursos de reposici&#243;n y jer&#225;rquico</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 2&#186; De los recursos de reposici&#243;n y jer&#225;rquico</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512650">
+              <Texto>     Art&#237;culo 59. Procedencia. El recurso de reposici&#243;n se
+interpondr&#225; dentro del plazo de cinco d&#237;as ante el mismo
+&#243;rgano que dict&#243; el acto que se impugna; en subsidio,
+podr&#225; interponerse el recurso jer&#225;rquico.
+     Rechazada total o parcialmente una reposici&#243;n, se
+elevar&#225; el expediente al superior que corresponda si junto
+con &#233;sta se hubiere interpuesto subsidiariamente recurso
+jer&#225;rquico.
+     Cuando no se deduzca reposici&#243;n, el recurso
+jer&#225;rquico se interpondr&#225; para ante el superior
+jer&#225;rquico de quien hubiere dictado el acto impugnado,
+dentro de los 5 d&#237;as siguientes a su notificaci&#243;n.
+     No proceder&#225; recurso jer&#225;rquico contra los actos del
+Presidente de la Rep&#250;blica, de los Ministros de Estado, de
+los alcaldes y los jefes superiores de los servicios
+p&#250;blicos descentralizados. En estos casos, el recurso de
+reposici&#243;n agotar&#225; la v&#237;a administrativa.
+     La autoridad llamada a pronunciarse sobre los recursos
+a que se refieren los incisos anteriores tendr&#225; un plazo no
+superior a 30 d&#237;as para resolverlos.
+     Si se ha deducido recurso jer&#225;rquico, la autoridad
+llamada a resolverlo deber&#225; o&#237;r previamente al &#243;rgano
+recurrido el que podr&#225; formular sus descargos por cualquier
+medio, escrito o electr&#243;nico.
+     La resoluci&#243;n que acoja el recurso podr&#225; modificar,
+reemplazar o dejar sin efecto el acto impugnado. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">59 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512653">
+          <Texto>     P&#225;rrafo 3&#186;
+
+     Del recurso extraordinario de revisi&#243;n</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 3&#186; Del recurso extraordinario de revisi&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512652">
+              <Texto>     Art&#237;culo 60. En contra de los actos administrativos
+firmes podr&#225; interponerse el recurso de revisi&#243;n ante el
+superior jer&#225;rquico, si lo hubiere o, en su defecto, ante
+la autoridad que lo hubiere dictado, cuando concurra alguna
+de las siguientes circunstancias.
+
+     a) Que la resoluci&#243;n se hubiere dictado sin el debido
+emplazamiento;
+     b) Que, al dictarlo, se hubiere incurrido en manifiesto
+error de hecho y que &#233;ste haya sido determinante para la
+decisi&#243;n adoptada, o que aparecieren documentos de valor
+esencial para la resoluci&#243;n del asunto, ignorados al
+dictarse el acto o que no haya sido posible acompa&#241;arlos al
+expediente administrativo en aquel momento;
+     c) Que por sentencia ejecutoriada se haya declarado que
+el acto se dict&#243; como consecuencia de prevaricaci&#243;n,
+cohecho, violencia u otra maquinaci&#243;n fraudulenta, y d) Que
+en la resoluci&#243;n hayan influido de modo esencial documentos
+o testimonios declarados falsos por sentencia ejecutoriada
+posterior a aquella resoluci&#243;n, o que siendo anterior, no
+hubiese sido conocida oportunamente por el interesado.
+
+     El plazo para interponer el recurso ser&#225; de un a&#241;o
+que se computar&#225; desde el d&#237;a siguiente a aqu&#233;l en que se
+dict&#243; la resoluci&#243;n en los casos de las letras a) y b).
+Respecto de las letras c) y d), dicho plazo se contar&#225;
+desde que la sentencia quede ejecutoriada, salvo que ella
+preceda a la resoluci&#243;n cuya revisi&#243;n se solicita, caso en
+el cual el plazo se computar&#225; desde el d&#237;a siguiente al de
+la notificaci&#243;n de &#233;sta. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">60 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="P&#225;rrafo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512655">
+          <Texto>     P&#225;rrafo 4&#186;
+
+     De la revisi&#243;n de oficio de la Administraci&#243;n</Texto>
+          <Metadatos>
+            <NombreParte presente="no">&#160;</NombreParte>
+            <TituloParte presente="si">P&#225;rrafo 4&#186; De la revisi&#243;n de oficio de la Administraci&#243;n</TituloParte>
+            
+          </Metadatos>
+          <EstructurasFuncionales>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512654">
+              <Texto>     Art&#237;culo 61. Procedencia. Los actos administrativos
+podr&#225;n ser revocados por el &#243;rgano que los hubiere
+dictado.
+     La revocaci&#243;n no proceder&#225; en los siguientes casos:
+
+     a) Cuando se trate de actos declarativos o creadores de
+derechos adquiridos leg&#237;timamente;
+     b) Cuando la ley haya determinado expresamente otra
+forma de extinci&#243;n de los actos; o
+     c) Cuando, por su naturaleza, la regulaci&#243;n legal del
+acto impida que sean dejados sin efecto.</Texto>
+              <Metadatos>
+                <NombreParte presente="si">61 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+            <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512656">
+              <Texto>     Art&#237;culo 62. Aclaraci&#243;n del acto. En cualquier
+momento, la autoridad administrativa que hubiere dictado una
+decisi&#243;n que ponga t&#233;rmino a un procedimiento podr&#225;, de
+oficio o a petici&#243;n del interesado, aclarar los puntos
+dudosos u obscuros y rectificar los errores de copia, de
+referencia, de c&#225;lculos num&#233;ricos y, en general, los
+puramente materiales o de hechos que aparecieren de
+manifiesto en el acto administrativo. </Texto>
+              <Metadatos>
+                <NombreParte presente="si">62 </NombreParte>
+                <TituloParte presente="no">&#160;</TituloParte>
+                
+              </Metadatos>
+            </EstructuraFuncional>
+          </EstructurasFuncionales>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+    <EstructuraFuncional transitorio="no transitorio" tipoParte="Cap&#237;tulo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512658">
+      <Texto>     CAPITULO V
+
+     Disposiciones Finales</Texto>
+      <Metadatos>
+        <NombreParte presente="no">&#160;</NombreParte>
+        <TituloParte presente="si">CAPITULO V Disposiciones Finales</TituloParte>
+        
+      </Metadatos>
+      <EstructurasFuncionales>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512657">
+          <Texto>     Art&#237;culo 63. Procedimiento de urgencia. Cuando razones
+de inter&#233;s p&#250;blico lo aconsejen, se podr&#225; ordenar, de
+oficio o a petici&#243;n del interesado, que al procedimiento se
+le aplique la tramitaci&#243;n de urgencia.
+     En tales circunstancias, los plazos establecidos para
+el procedimiento ordinario se reducir&#225;n a la mitad, salvo
+los relativos a la presentaci&#243;n de solicitudes y recursos.
+     No cabr&#225; recurso alguno en contra de la decisi&#243;n que
+ordene la aplicaci&#243;n de la tramitaci&#243;n de urgencia al
+procedimiento.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">63 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512659">
+          <Texto>     Art&#237;culo 64. Silencio Positivo. Transcurrido el plazo
+legal para resolver acerca de una solicitud que haya
+originado un procedimiento, sin que la Administraci&#243;n se
+pronuncie sobre ella, el interesado podr&#225; denunciar el
+incumplimiento de dicho plazo ante la autoridad que deb&#237;a
+resolver el asunto, requiri&#233;ndole una decisi&#243;n acerca de
+su solicitud. Dicha autoridad deber&#225; otorgar recibo de la
+denuncia, con expresi&#243;n de su fecha, y elevar copia de ella
+a su superior jer&#225;rquico dentro del plazo de 24 horas.
+     Si la autoridad que deb&#237;a resolver el asunto no se
+pronuncia en el plazo de cinco d&#237;as contados desde la
+recepci&#243;n de la denuncia, la solicitud del interesado se
+entender&#225; aceptada.
+     En los casos del inciso precedente, el interesado
+podr&#225; pedir que se certifique que su solicitud no ha sido
+resuelta dentro del plazo legal. Dicho certificado ser&#225;
+expedido sin m&#225;s tr&#225;mite.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">64 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512660">
+          <Texto>     Art&#237;culo 65. Silencio Negativo. Se entender&#225;
+rechazada una solicitud que no sea resuelta dentro del plazo
+legal cuando ella afecte el patrimonio fiscal. Lo mismo se
+aplicar&#225; en los casos en que la Administraci&#243;n act&#250;e de
+oficio, cuando deba pronunciarse sobre impugnaciones o
+revisiones de actos administrativos o cuando se ejercite por
+parte de alguna persona el derecho de petici&#243;n consagrado
+en el numeral 14 del art&#237;culo 19 de la Constituci&#243;n
+Pol&#237;tica.
+     En los casos del inciso precedente, el interesado
+podr&#225; pedir que se certifique que su solicitud no ha sido
+resuelta dentro de plazo legal. El certificado se otorgar&#225;
+sin m&#225;s tr&#225;mite, entendi&#233;ndose que desde la fecha en que
+ha sido expedido empiezan a correr los plazos para
+interponer los recursos que procedan. </Texto>
+          <Metadatos>
+            <NombreParte presente="si">65 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512661">
+          <Texto>     Art&#237;culo 66. Efectos del silencio administrativo. Los
+actos administrativos que concluyan por aplicaci&#243;n de las
+disposiciones de los art&#237;culos precedentes, tendr&#225;n los
+mismos efectos que aqu&#233;llos que culminaren con una
+resoluci&#243;n expresa de la Administraci&#243;n, desde la fecha de
+la certificaci&#243;n respectiva.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">66 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512662">
+          <Texto>     Art&#237;culo 67.- Fac&#250;ltase al Presidente de la
+Rep&#250;blica para que en el plazo de un a&#241;o, contado desde la
+publicaci&#243;n de esta ley en el Diario Oficial, mediante uno
+o m&#225;s decretos con fuerza de ley del Ministerio Secretar&#237;a
+General de la Presidencia, que deber&#225; llevar tambi&#233;n la
+firma del Ministro de Econom&#237;a, Fomento y Reconstrucci&#243;n,
+del Ministro de Vivienda y Urbanismo, del Ministro de
+Transportes y Telecomunicaciones y del Ministro del
+Interior, reduzca los plazos de los procedimientos
+administrativos que rigen el otorgamiento de las patentes
+municipales se&#241;aladas en el decreto ley N&#186; 3.063, de 1979;
+y los permisos, estudios de impacto vial, certificados y
+recepci&#243;n de obras de construcci&#243;n y urbanismo que se
+indican en el T&#237;tulo III de la Ley General de Urbanismo y
+Construcciones.
+     Para el adecuado cumplimiento de esta obligaci&#243;n, el
+Presidente de la Rep&#250;blica podr&#225; fijar o modificar plazos,
+sin que &#233;stos puedan durar m&#225;s de noventa d&#237;as ni que se
+ampl&#237;en los ya existentes. En ning&#250;n caso, se podr&#225;n
+establecer etapas o procedimientos distintos a los
+establecidos por la ley.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">67 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512663">
+          <Texto>     Art&#237;culo 68. Fac&#250;ltase al Presidente de la Rep&#250;blica
+para que en el plazo de un a&#241;o, contado desde la
+publicaci&#243;n de esta ley en el Diario Oficial, mediante un
+decreto con fuerza de ley expedido a trav&#233;s del Ministerio
+de Salud, y con la firma del Ministro Secretario General de
+la Presidencia, determine las materias que, conforme a lo
+dispuesto en el art&#237;culo 7&#186; del C&#243;digo Sanitario,
+requieren de autorizaci&#243;n sanitaria expresa y de los
+elementos centrales de procedimiento de tramitaci&#243;n de la
+misma, con el prop&#243;sito de simplificarlo y reducir sus
+plazos de tramitaci&#243;n.</Texto>
+          <Metadatos>
+            <NombreParte presente="si">68 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+        <EstructuraFuncional transitorio="no transitorio" tipoParte="Art&#237;culo" fechaVersion="2003-05-29" derogado="no derogado" idParte="8512664">
+          <Texto>     Art&#237;culo 69. Fac&#250;ltase al Presidente de la Rep&#250;blica
+para que en el plazo de un a&#241;o, mediante un decreto con
+fuerza de ley del Ministerio Secretar&#237;a General de la
+Presidencia, modifique el sistema destinado a calificar
+ambientalmente un estudio o una declaraci&#243;n de impacto
+ambiental de la ley N&#186; 19.300, con el prop&#243;sito de
+simplificarlo y reducir sus plazos de tramitaci&#243;n. En
+ning&#250;n caso, el plazo total de tramitaci&#243;n podr&#225; exceder
+de noventa d&#237;as.".</Texto>
+          <Metadatos>
+            <NombreParte presente="si">69 </NombreParte>
+            <TituloParte presente="no">&#160;</TituloParte>
+            
+          </Metadatos>
+        </EstructuraFuncional>
+      </EstructurasFuncionales>
+    </EstructuraFuncional>
+  </EstructurasFuncionales>
+  <Promulgacion fechaVersion="2003-05-29" derogado="no derogado">
+    <Texto>     Habi&#233;ndose cumplido con lo establecido en el N&#186; 1&#186;
+del Art&#237;culo 82 de la Constituci&#243;n Pol&#237;tica de la
+Rep&#250;blica y por cuanto he tenido a bien aprobarlo y
+sancionarlo; por tanto prom&#250;lguese y ll&#233;vese a efecto como
+Ley de la Rep&#250;blica.
+
+     Santiago, 22 de mayo de 2003.-  RICARDO LAGOS ESCOBAR,
+Presidente de la Rep&#250;blica.- Francisco Huenchumilla
+Jaramillo, Ministro Secretario General de la Presidencia.
+
+     Lo que transcribo a Ud. para su conocimiento.- Saluda
+atentamente a Ud., Rodrigo Ega&#241;a Baraona, Subsecretario
+General de la Presidencia.</Texto>
+  </Promulgacion>
+  <Anexos>
+    <Anexo fechaVersion="2003-05-29" derogado="no derogado" idParte="8512666" transitorio="no transitorio">
+      <Metadatos>
+        <Titulo>TRIBUNAL CONSTITUCIONAL
+ 
+PROYECTO DE LEY QUE FIJA LAS BASES DE LOS PROCEDIMIENTOS
+QUE RIGEN LOS ACTOS DE LA ADMINISTRACI&#211;N DEL ESTADO</Titulo>
+        
+      </Metadatos>
+      <Texto>TRIBUNAL CONSTITUCIONAL
+
+PROYECTO DE LEY QUE FIJA LAS BASES DE LOS PROCEDIMIENTOS QUE
+RIGEN LOS ACTOS DE LA ADMINISTRACI&#211;N DEL ESTADO 
+     El Secretario del Tribunal Constitucional, quien
+suscribe, certifica que el Honorable Senado envi&#243; el
+proyecto de ley enunciado en el rubro, aprobado por el
+Congreso Nacional, a fin de que este Tribunal ejerciera el
+control de constitucionalidad respecto de los art&#237;culos 33
+y 63 de dicho proyecto, y por sentencia de 13 de mayo de
+2003, los declar&#243; constitucionales.
+
+     Santiago, mayo 14 de 2003.- Rafael Larra&#237;n Cruz,
+Secretario.</Texto>
+    </Anexo>
+  </Anexos>
+</Norma>

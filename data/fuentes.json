@@ -1,0 +1,33 @@
+{
+  "nota": "Textos de ley de dominio publico en Chile (Ley 17.336, art. 11). Version vigente al bajarlos.",
+  "descargado": "2026-11-20",
+  "leyes": [
+    {
+      "ley": "20.285",
+      "nombre": "Ley de Transparencia de la Funcion Publica y Acceso a la Informacion del Estado",
+      "archivo": "ley_20285.xml",
+      "idNorma": 276363,
+      "fechaVersion": "2025-07-11",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=276363",
+      "url_xml": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=276363"
+    },
+    {
+      "ley": "19.880",
+      "nombre": "Bases de los Procedimientos Administrativos",
+      "archivo": "ley_19880.xml",
+      "idNorma": 210676,
+      "fechaVersion": "2026-10-17",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=210676",
+      "url_xml": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=210676"
+    },
+    {
+      "ley": "19.886",
+      "nombre": "Bases sobre Contratos Administrativos de Suministro y Prestacion de Servicios (Compras Publicas)",
+      "archivo": "ley_19886.xml",
+      "idNorma": 213004,
+      "fechaVersion": "2026-10-17",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=213004",
+      "url_xml": "https://www.leychile.cl/Consulta/obtxml?opt=7&idNorma=213004"
+    }
+  ]
+}
