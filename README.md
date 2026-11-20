@@ -120,6 +120,10 @@ fallos de recuperación del modo híbrido son "qué puedo hacer si me niegan la 
 Incluye `Dockerfile`, `docker-compose.yml` (API más Postgres con pgvector) y `render.yaml`.
 No hay nada desplegado.
 
+## Cómo lo hice
+
+Lo hice en una tarde con Claude Code. Lo que más revisé fue que cada respuesta cite el artículo de donde sale y que no invente nada cuando la ley no lo dice. Por eso en la evaluación también están las preguntas que falla.
+
 ## Licencia
 
 MIT, autor Dheightsan. Los textos de ley son de dominio público.
